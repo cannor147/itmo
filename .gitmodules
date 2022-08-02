@@ -43,3 +43,15 @@
 [submodule "compute"]
 	path = compute
 	url = git@github.com:cannor147/itmo-compute.git
+[submodule "sd"]
+	path = sd
+	url = git@github.com:cannor147/itmo-sd.git
+[submodule "js"]
+	path = js
+	url = git@github.com:cannor147/itmo-js.git
+[submodule "ux"]
+	path = ux
+	url = git@github.com:cannor147/itmo-ux.git
+[submodule "webapp"]
+	path = webapp
+	url = https://github.com/cannor147/itmo-webapp
