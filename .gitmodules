@@ -1,0 +1,45 @@
+[submodule "prog"]
+	path = prog
+	url = git@github.com:cannor147/itmo-prog.git
+[submodule "сзз"]
+	path = сзз
+	url = git@github.com:cannor147/itmo-cpp.git
+[submodule "cpp"]
+	path = cpp
+	url = git@github.com:cannor147/itmo-cpp.git
+[submodule "java"]
+	path = java
+	url = git@github.com:cannor147/itmo-java.git
+[submodule "fp"]
+	path = fp
+	url = git@github.com:cannor147/itmo-fp.git
+[submodule "da"]
+	path = da
+	url = git@github.com:cannor147/itmo-da.git
+[submodule "os"]
+	path = os
+	url = git@github.com:cannor147/itmo-os.git
+[submodule "mpp"]
+	path = mpp
+	url = git@github.com:cannor147/itmo-mpp.git
+[submodule "dm"]
+	path = dm
+	url = git@github.com:cannor147/itmo-dm.git
+[submodule "algo"]
+	path = algo
+	url = git@github.com:cannor147/itmo-algo.git
+[submodule "mathlog"]
+	path = mathlog
+	url = git@github.com:cannor147/itmo-mathlog.git
+[submodule "trans"]
+	path = trans
+	url = git@github.com:cannor147/itmo-trans.git
+[submodule "tt"]
+	path = tt
+	url = git@github.com:cannor147/itmo-tt.git
+[submodule "pt"]
+	path = pt
+	url = git@github.com:cannor147/itmo-pt.git
+[submodule "compute"]
+	path = compute
+	url = git@github.com:cannor147/itmo-compute.git
