@@ -9,7 +9,7 @@
 | Differential Equations                                       |      |      |  x   |      |      |      |      |      |
 | Complex Analysis                                             |      |      |      |  x   |      |      |      |      |
 | [Probability Theory and Mathematical Statistics](https://github.com/cannor147/itmo-pt) |      |      |      |      |  x   |  x   |      |      |
-| [Numerical Methods](https://github.com/cannor147/itmo-compute) |      |      |      |      |      |  x   |      |      |
+| [Computational Science](https://github.com/cannor147/itmo-compute) |      |      |      |      |      |  x   |      |      |
 | [Algorithms and Data Structures](https://github.com/cannor147/itmo-algo) |  x   |  x   |  x   |  x   |      |      |      |      |
 | [Discrete Mathematics](https://github.com/cannor147/itmo-dm) |  x   |  x   |  x   |  x   |      |      |      |      |
 | [Mathematical Logic](https://github.com/cannor147/itmo-mathlog) |      |      |      |  x   |      |      |      |      |
@@ -17,7 +17,7 @@
 | [Translation Methods](https://github.com/cannor147/itmo-trans) |      |      |      |      |  x   |      |      |      |
 | Computer Architecture                                        |  x   |      |      |      |      |      |      |      |
 | [Operating Systems](https://github.com/cannor147/itmo-os)    |      |      |      |  x   |      |      |      |      |
-| [Parallel and Concurrent Programming](https://github.com/cannor147/itmo-mpp) |      |      |      |      |  x   |  x   |      |      |
+| [Multithreading Programming](https://github.com/cannor147/itmo-mpp) |      |      |      |      |  x   |  x   |      |      |
 | [Databases](https://github.com/cannor147/itmo-db)            |      |      |      |      |      |      |  x   |      |
 | Introduction to Programming                                  |  x   |      |      |      |      |      |      |      |
 | [Paradigms of Programming](https://github.com/cannor147/itmo-prog) |      |  x   |      |      |      |      |      |      |

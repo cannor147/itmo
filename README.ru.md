@@ -17,7 +17,7 @@
 | [Методы Трансляции](https://github.com/cannor147/itmo-trans) |      |      |      |      |  x   |      |      |      |
 | Архитектура ЭВМ                                              |  x   |      |      |      |      |      |      |      |
 | [Операционные Системы](https://github.com/cannor147/itmo-os) |      |      |      |  x   |      |      |      |      |
-| [Параллельное Программирование](https://github.com/cannor147/itmo-mpp) |      |      |      |      |  x   |  x   |      |      |
+| [Многопоточное Программирование](https://github.com/cannor147/itmo-mpp) |      |      |      |      |  x   |  x   |      |      |
 | [Базы Данных](https://github.com/cannor147/itmo-db)          |      |      |      |      |      |      |  x   |      |
 | Введение в Программирование                                  |  x   |      |      |      |      |      |      |      |
 | [Парадигмы Программирования](https://github.com/cannor147/itmo-prog) |      |  x   |      |      |      |      |      |      |
