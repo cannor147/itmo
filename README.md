@@ -21,9 +21,9 @@
 | [Databases](https://github.com/cannor147/itmo-db)            |      |      |      |      |      |      |  x   |      |
 | Introduction to Programming                                  |  x   |      |      |      |      |      |      |      |
 | [Paradigms of Programming](https://github.com/cannor147/itmo-prog) |      |  x   |      |      |      |      |      |      |
-| [C++](https://github.com/cannor147/itmo-cpp)                 |      |  x   |  x   |      |      |      |      |      |
+| [C++ Language](https://github.com/cannor147/itmo-cpp)        |      |  x   |  x   |      |      |      |      |      |
 | Web Development                                              |      |      |  x   |      |      |      |      |      |
-| [Java](https://github.com/cannor147/itmo-java)               |      |      |      |  x   |      |      |      |      |
+| [Java Advanced](https://github.com/cannor147/itmo-java)      |      |      |      |  x   |      |      |      |      |
 | [Functional Programming](https://github.com/cannor147/itmo-fp) |      |      |      |      |  x   |      |      |      |
 | [Data Analysis](https://github.com/cannor147/itmo-da)        |      |      |      |      |  x   |      |      |      |
 | [JavaScript](https://github.com/cannor147/itmo-js)           |      |      |      |      |  x   |      |      |      |
