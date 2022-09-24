@@ -15,6 +15,7 @@
 | [Математическая Логика](https://github.com/cannor147/itmo-mathlog) |      |      |      |  x   |      |      |      |      |
 | [Теория Типов](https://github.com/cannor147/itmo-tt)         |      |      |      |      |  x   |      |      |      |
 | [Методы Трансляции](https://github.com/cannor147/itmo-trans) |      |      |      |      |  x   |      |      |      |
+| [Теория Кодирования](https://github.com/cannor147/itmo-coding) |      |      |      |      |      |      |  x   |      |
 | Архитектура ЭВМ                                              |  x   |      |      |      |      |      |      |      |
 | [Операционные Системы](https://github.com/cannor147/itmo-os) |      |      |      |  x   |      |      |      |      |
 | [Многопоточное Программирование](https://github.com/cannor147/itmo-mpp) |      |      |      |      |  x   |  x   |      |      |

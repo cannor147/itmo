@@ -15,6 +15,7 @@
 | [Mathematical Logic](https://github.com/cannor147/itmo-mathlog) |      |      |      |  x   |      |      |      |      |
 | [Type Theory](https://github.com/cannor147/itmo-tt)          |      |      |      |      |  x   |      |      |      |
 | [Translation Methods](https://github.com/cannor147/itmo-trans) |      |      |      |      |  x   |      |      |      |
+| [Coding Theory](https://github.com/cannor147/itmo-coding) |      |      |      |      |      |      |  x   |      |
 | Computer Architecture                                        |  x   |      |      |      |      |      |      |      |
 | [Operating Systems](https://github.com/cannor147/itmo-os)    |      |      |      |  x   |      |      |      |      |
 | [Multithreading Programming](https://github.com/cannor147/itmo-mpp) |      |      |      |      |  x   |  x   |      |      |

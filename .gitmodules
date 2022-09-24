@@ -55,3 +55,6 @@
 [submodule "webapp"]
 	path = webapp
 	url = https://github.com/cannor147/itmo-webapp
+[submodule "coding"]
+	path = coding
+	url = git@github.com:cannor147/itmo-coding.git
