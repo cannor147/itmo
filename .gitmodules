@@ -58,3 +58,6 @@
 [submodule "coding"]
 	path = coding
 	url = git@github.com:cannor147/itmo-coding.git
+[submodule "db"]
+	path = db
+	url = https://github.com/cannor147/itmo-db.git
